@@ -7,8 +7,8 @@
 
 #### Backend Developer
 
-**1998.05.08**
-github - https://github.com/jiwonny1/jiwonny1
+**1998.05.08**<br/>
+github - https://github.com/jiwonny1/jiwonny1<br/>
 email - jiw8520@gmail.com
 
 <!--
